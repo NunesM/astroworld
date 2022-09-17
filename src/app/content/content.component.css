@@ -1,0 +1,68 @@
+.content{
+    margin-top: 13%;
+    margin-left: 5%;
+    margin-right: 2%;
+    width: 93%;
+}
+
+.content .topdata{
+    display: flex;
+}
+
+.content .npaises{
+    text-align: end;
+    margin-left: 75%;
+    display: flex;
+}
+
+.content .fregiao{
+    text-align: end;
+    display: flex;
+}
+
+.topinfo{
+    display: flex;
+}
+
+.nrp{
+    text-align: end;
+    margin-left: 46%;
+    display: flex;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 18px;
+    letter-spacing: -0.015em;
+}
+
+.nav .nav-item .nav-link{
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 22px;
+
+letter-spacing: -0.015em;
+
+color: rgba(54, 54, 54, 0.8);
+}
+
+.list{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 20%;
+    margin-top: 3%;
+    margin-right: 50px;
+}
+
+.card-title{
+    color: black;
+}
+
+.scrollspy-example {
+    position: relative;
+    height: 350px;
+    overflow: auto;
+  }
